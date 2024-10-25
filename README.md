@@ -6,6 +6,6 @@ On November 23, 2019, my son used Python to draw the five-star red flag. 儿子�
 
 支持本程序，请到Gitee和GitHub给我们点Star！
 
-Gitee：https://gitee.com/caozha/five-star-red-flag
+Gitee：https://gitee.com/dengzhenhua/five-star-red-flag
 
-GitHub：https://github.com/cao-zha/five-star-red-flag
+GitHub：https://github.com/dengcao/five-star-red-flag
